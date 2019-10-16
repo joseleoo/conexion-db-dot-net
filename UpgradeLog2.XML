@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="proyectoconexion">
+</Property><Property Name="Archivo de la solución" Value="C:\Documents and Settings\programacion\Escritorio\proyectoconexion\proyectoconexion.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Documents and Settings\programacion\Escritorio\proyectoconexion\proyectoconexion.suo">
+</Property><Property Name="Date" Value="viernes, 18 de septiembre de 2009">
+</Property><Property Name="Time" Value="21:55">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="proyectoconexion.sln" Description="La copia C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\proyectoconexion.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="proyectoconexion.suo" Description="La copia C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\proyectoconexion.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="proyectoconexion.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\proyectoconexion.vbproj">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="Module1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\programacion\Escritorio\proyectoconexion\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="proyectoconexion.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="proyectoconexion" Source="proyectoconexion.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="proyectoconexion.sln" Description="El archivo de soluciones no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="" Source="proyectoconexion.sln" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="proyectoconexion" Source="proyectoconexion.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

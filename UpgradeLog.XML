@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="proyectoconexion">
+</Property><Property Name="Archivo de la solución" Value="C:\Documents and Settings\programacion\Configuración local\Temp\Rar$DI00.844\proyectoconexion.sln">
+</Property><Property Name="Date" Value="viernes, 18 de septiembre de 2009">
+</Property><Property Name="Time" Value="21:53">
+</Property></Properties><Event ErrorLevel="2" Project="proyectoconexion" Source="proyectoconexion.vbproj" Description="No se puede abrir el archivo de proyecto para realizar la actualización.  ">
+</Event><Event ErrorLevel="0" Project="" Source="proyectoconexion.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="proyectoconexion.sln" Description="Converted">
+</Event></UpgradeLog>
